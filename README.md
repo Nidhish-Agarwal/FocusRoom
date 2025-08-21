@@ -34,7 +34,7 @@ Unlike regular Pomodoro apps designed for individuals, FocusRoom focuses on **co
 
 ## 🌍 Deployment
 
-- **Frontend:** [Live Link](#)
+- **Frontend:** [Live Link](https://focus-room-zeta.vercel.app)
 
 ---
 
